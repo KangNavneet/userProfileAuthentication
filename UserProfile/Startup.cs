@@ -61,8 +61,6 @@ namespace UserProfile
 
             app.UseRouting();
             app.UseAuthentication();
-
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -72,6 +70,7 @@ namespace UserProfile
                     pattern: "{controller=Home}/{action=Index}/{id?}");
 
                 endpoints.MapBlazorHub();
+                endpoints.MapRazorPages();
             });
         }
     }
