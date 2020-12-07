@@ -9378,11 +9378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navne\\source\\repos\\UserProfileBlogs\\UserProfile\\UserProfile.csproj",
+      "projectUniqueName": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\UserProfile\\UserProfile.csproj",
       "projectName": "UserProfile",
-      "projectPath": "C:\\Users\\navne\\source\\repos\\UserProfileBlogs\\UserProfile\\UserProfile.csproj",
+      "projectPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\UserProfile\\UserProfile.csproj",
       "packagesPath": "C:\\Users\\navne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navne\\source\\repos\\UserProfileBlogs\\UserProfile\\obj\\",
+      "outputPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\UserProfile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navne\\AppData\\Roaming\\NuGet\\NuGet.Config",
